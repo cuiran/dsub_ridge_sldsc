@@ -1,0 +1,7 @@
+quadprog
+pandas
+numpy
+argparse
+sklearn
+scipy
+bitarray
