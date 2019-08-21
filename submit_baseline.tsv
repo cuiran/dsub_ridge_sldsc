@@ -1,0 +1,2 @@
+--env SUMSTAT	--env BASELINE	--env OUT	--env WEIGHT	--env ANNOT
+/mnt/data/ss/UKB_460K.blood_RED_COUNT.sumstats	/mnt/data/baseline/baseline.	/mnt/data/result/UKB_460K.blood_RED_COUNT_BL_Vivian66	/mnt/data/weights/weights.hm3_noMHC.	/mnt/data/annot/combined66.

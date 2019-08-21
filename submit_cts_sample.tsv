@@ -1,0 +1,3 @@
+--env SUMSTAT	--env BASELINE	--env OUT	--env WEIGHT	--env ANNOT
+/mnt/data/ss/UKB_460K.blood_RED_COUNT.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/result/UKB_460K.blood_RED_COUNT_BLLD_adult_CD20	/mnt/data/weights/weights.hm3_noMHC.	/mnt/data/annot/adult_CD20.
+/mnt/data/ss/UKB_460K.blood_RED_COUNT.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/result/UKB_460K.blood_RED_COUNT_BLLD_cingulate_gyrus	/mnt/data/weights/weights.hm3_noMHC.	/mnt/data/annot/cingulate_gyrus.
